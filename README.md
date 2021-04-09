@@ -1,5 +1,3 @@
-![Cover image](./images/Cover-img.png)
-
 ### Hi there 👋
 
 ### This is Greeshma 👩
