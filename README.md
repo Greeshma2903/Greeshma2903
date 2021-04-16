@@ -1,5 +1,3 @@
-<img src="https://tenor.com/view/wave-gif-20877782" width="10">
-
 ### Hi there 👋
 
 ### This is Greeshma 👩
@@ -15,10 +13,12 @@
 [![Greeshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greeshma2903&show_icons=true&theme=radical)](https://github.com/Greeshma2903)
 
 ### 📚 Languages I know 
+---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma2903&exclude_repo=github-slideshow&theme=radical)](https://github.com/Greeshma2903)
 
 ### 💪 Skills 
+---
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
