@@ -2,9 +2,9 @@
 
 ### This is Greeshma 👩
 
-- I am an Engineering student studying Computer Science as my  major. 👩‍🎓
+- I am an student studying Computer Science Engineering. 👩‍🎓
 
-- I am interested in Web development and am currently working on my Javascript skills.
+- I am interested in Web development and am currently working on my Javascript skills. I also like to make simple art/Illustrations.
 
 - Pronouns : She/Her 😄
 
