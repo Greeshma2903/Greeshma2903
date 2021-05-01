@@ -17,7 +17,7 @@
 ### 📚 Languages I know 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma2903&exclude_repo=github-slideshow&theme=radical)](https://github.com/Greeshma2903)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma2903&exclude_repo=github-slideshow,First-app---Dice-roll&theme=radical)](https://github.com/Greeshma2903)
 
 ### 💪 Skills 
 ---
