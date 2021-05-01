@@ -10,7 +10,7 @@
 
 - Fun fact : I am weirdly obssessed with Dal 😋
 
--When I am not coding, you would find me reading 📖 or lettering some quotes ✍. 
+- When I am not coding, you would find me reading 📖 or lettering some quotes ✍. 
 
 [![Greeshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greeshma2903&show_icons=true&theme=radical)](https://github.com/Greeshma2903)
 
