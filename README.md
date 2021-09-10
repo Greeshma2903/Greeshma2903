@@ -7,7 +7,7 @@
 </div>
 
 
-- A freshman pursuing Computer Science engineering. 👩‍🎓
+- A sophomore pursuing Computer Science engineering. 👩‍🎓
 - I am interested in Web development and am currently working on my Javascript skills. I also like to make simple art/Illustrations.
 - Pronouns : She/Her 😄
 - Fun fact : I am weirdly obssessed with Dal 😋
