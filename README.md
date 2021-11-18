@@ -65,3 +65,4 @@
  <!-- icons from https://icons8.com/ -->
 </div>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Greeshma2903/Greeshma2903/blob/master/devcard.svg" width="400" alt="Medam Greeshma's Dev Card"/></a>
