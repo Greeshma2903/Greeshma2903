@@ -65,4 +65,11 @@
  <!-- icons from https://icons8.com/ -->
 </div>
 
-<a href="https://app.daily.dev/GreeshmaMedam"><img src="devcard.svg" width="400" alt="Medam Greeshma's Dev Card"/></a>
+<div align="center"> 
+  <h3>
+  DevCard
+  </h3>
+
+<a href="https://app.daily.dev/GreeshmaMedam"><img src="devcard.svg" width="250" alt="Medam Greeshma's Dev Card"/></a>
+
+</div>
