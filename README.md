@@ -32,41 +32,42 @@
     Skills 💪
     
   </h3>
-  
-  <a src="https://ubuntu.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="ubuntu">
-  </a>
 
-  <a src="https://devdocs.io/c/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C-lanuage" alt="C lang">
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" title="C-lanuage" alt="C lang" />
   </a>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://github.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="c++" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="c++" width="40" height="40"/>
   </a> 
   
-  <a src="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" title="HTML5"/>
   </a>
   
-  <a src="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" title="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" title="CSS3"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-
+<!--  technologies  -->
+  <br>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap" title="bootstrap"/>
+  </a>
+  
   <a href="https://jquery.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   </a>
   
-  <a src="https://cloud.google.com/docs/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud Platform">
+  <a href="https://cloud.google.com/docs/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud Platform" alt="google cloud platform"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="40" height="40"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -81,24 +82,26 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" title="figma" width="40" height="40"/>
   </a>
 
-  <a src="https://getbootstrap.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap" title="bootstrap">
-  </a>
-
-  <a src="https://www.canva.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" alt="canva" title="canva">
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" alt="canva" title="canva"/>
   </a>
   
-  <a src="https://helpx.adobe.com/in/illustrator/user-guide.html" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="adobe illustrator" title="illustrator">
+  <a href="https://helpx.adobe.com/in/illustrator/user-guide.html" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="adobe illustrator" title="illustrator"/>
   </a>
   
-  <a src="https://notion.so" target="_blank">
-    <img src="./images/notion.svg" width="40" height="40" alt="notion" title="notion">
+<!--  other skills  -->
+  <br>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="ubuntu"/>
   </a>
   
-  <a src="https://docs.netlify.com/" target="_blank">
-    <img src="./images/netlify.svg" width="40" height="40" alt="netlify" title="netlify">
+  <a href="https://notion.so" target="_blank">
+    <img src="./images/notion.svg" width="40" height="40" alt="notion" title="notion"/>
+  </a>
+  
+  <a href="https://docs.netlify.com/" target="_blank">
+    <img src="./images/netlify.svg" width="40" height="40" alt="netlify" title="netlify"/>
   </a>
 
 </div>
@@ -110,16 +113,16 @@
     
   </h3>
   
-  <a src="https://www.linkedin.com/in/m-greeshma/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" title="linkedin" width="30" height="30">
+  <a href="https://www.linkedin.com/in/m-greeshma/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" title="linkedin" width="40" height="40" />
   </a>
 
-  <a src="mailto:greeshmam@duck.com">
-    <img src="./images/gmail.svg" alt="gmail" title="gmail" width="30" height="30">
+  <a href="mailto:greeshmam@duck.com">
+    <img src="./images/gmail.svg" alt="gmail" title="gmail" width="40" height="40" />
   </a>
 
-  <a src="https://gree.hashnode.dev/" target="_blank">
-    <img src="./images/hashnode.svg alt="hashnode blog" title="hashnode" width="30" height="30">
+  <a href="https://gree.hashnode.dev/" target="_blank">
+    <img src="./images/hashnode.png" alt="hashnode blog" title="hashnode" width="40" height="40" />
   </a>
 
 </div>
