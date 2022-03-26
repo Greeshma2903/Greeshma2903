@@ -8,10 +8,11 @@
 
 
 - A sophomore pursuing Computer Science engineering. 👩‍🎓
-- I am interested in Web development and am currently working on my Javascript skills. I also like to make simple art/Illustrations.
+- I am interested in Web development and love working in communities.
+- Currently learning React and working on my problem solving skills on LC.
 - Pronouns : She/Her 😄
 - Fun fact : I am weirdly obssessed with Dal 😋
-- When I am not coding, you would find me reading 📖 or lettering some quotes ✍. 
+- When I am not coding, you would find me reading 📖, lettering some quotes ✍ or interacting on Discord⭐. 
 
 ---
 <div align="center">
