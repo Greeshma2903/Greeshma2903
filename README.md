@@ -12,6 +12,7 @@
 - Pronouns : She/Her 😄
 - Fun fact : I am weirdly obssessed with Dal 😋
 - When I am not coding, you would find me reading 📖, lettering some quotes ✍ or interacting on Discord⭐.
+- Reach out to me at: greeshmam@duck.com
 
 ---
 
