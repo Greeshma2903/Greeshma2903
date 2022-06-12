@@ -22,8 +22,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma2903&exclude_repo=github-slideshow,First-app---Dice-roll&theme=dark&layout=compact&border_radius&card_width=400)](https://github.com/greeshma2903)
 
-| Visitors | ![Visitor Count](https://profile-counter.glitch.me/{Greeshma2903}/count.svg) |
-| -------- | ---------------------------------------------------------------------------- |
 
 </div>
 
@@ -57,6 +55,10 @@
   <br>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap" title="bootstrap"/>
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass" title="sass"/>
   </a>
   
   <a href="https://jquery.com/" target="_blank">
