@@ -6,9 +6,9 @@
   </h2>
 </div>
 
-- A sophomore pursuing Computer Science engineering. 👩‍🎓
+- A junior year student pursuing Computer Engineering. 👩‍🎓
 - I am interested in Web development and love working in communities.
-- Currently learning React and working on my problem solving skills on LC.
+- Currently learning React and Redux.
 - Pronouns : She/Her 😄
 - Fun fact : I am weirdly obssessed with Dal 😋
 - When I am not coding, you would find me reading 📖, lettering some quotes ✍ or interacting on Discord⭐.
@@ -126,6 +126,10 @@
 
   <a href="https://gree.hashnode.dev/" target="_blank">
     <img src="./images/hashnode.png" alt="hashnode blog" title="hashnode" width="40" height="40" />
+  </a>
+
+  <a href="https://discord.com/users/748202877566320750" target="_blank">
+    <img src="./images/discord.png" alt="hashnode blog" title="hashnode" width="40" height="40" />
   </a>
 
 </div>
