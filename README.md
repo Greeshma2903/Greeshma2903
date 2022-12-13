@@ -6,7 +6,7 @@
   </h2>
 </div>
 
-- A junior year student pursuing Computer Engineering. 👩‍🎓
+- A pre-final year student pursuing Computer Engineering. 👩‍🎓
 - I am interested in Web development and love working in communities.
 - Currently learning React and Redux.
 - Pronouns : She/Her 😄
