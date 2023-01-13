@@ -7,7 +7,7 @@
 </div>
 
 - A pre-final year student pursuing Computer Engineering. 👩‍🎓
-- I am interested in Web development and love working in communities.
+- I am interested in Web development, Design and love working in communities.
 - Currently learning React and Redux.
 - Pronouns : She/Her 😄
 - Fun fact : I am weirdly obssessed with Dal 😋
@@ -131,14 +131,5 @@
   <a href="https://discord.com/users/748202877566320750" target="_blank">
     <img src="./images/discord.png" alt="hashnode blog" title="hashnode" width="40" height="40" />
   </a>
-
-</div>
-
-<div align="center"> 
-  <h3>
-  DevCard
-  </h3>
-
-<a href="https://app.daily.dev/GreeshmaMedam"><img src="devcard.svg" width="250" alt="Medam Greeshma's Dev Card"/></a>
 
 </div>
