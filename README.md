@@ -18,12 +18,10 @@
 
 <div align="center">
   
-  [![Greeshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greeshma2903&show_icons=true&theme=dark&border_radius)](https://github.com/greeshma2903)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma2903&exclude_repo=github-slideshow,First-app---Dice-roll&theme=dark&layout=compact&border_radius&card_width=400)](https://github.com/greeshma2903)
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=greeshma2903&theme=github_dark)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greeshma2903&theme=github_dark)
 
-
-</div>
+<div>
 
 <div align="center">
   <h3>
