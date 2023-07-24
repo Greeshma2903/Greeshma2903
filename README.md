@@ -6,14 +6,14 @@
   </h2>
 </div>
 
-- A pre-final year student pursuing Computer Engineering. 👩‍🎓
+- A final-year student pursuing Computer Engineering. 👩‍🎓
 - I am interested in Web development, Design and love working in communities.
-- Currently learning React and Redux.
-- Pronouns : She/Her 😄
-- Fun fact : I am weirdly obssessed with Dal 😋
-- When I am not coding, you would find me reading 📖, lettering some quotes ✍ or interacting on Discord⭐.
-- Reach out to me at: greeshmam@duck.com
-
+- Currently learning Next.js and working in React Ecosystem.
+- Pronouns: She/Her 😄
+- Fun fact: I am weirdly obsessed with Dal 😋
+- When I am not coding, you will find me reading 📖, lettering some quotes ✍ or talking on Discord ⭐.
+- Reach out to me at: greeshma290303@gmail.com
+- Actively looking for Frontend Dev and SDE roles.
 ---
 
 <div align="center">
