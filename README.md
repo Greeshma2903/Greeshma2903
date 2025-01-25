@@ -6,14 +6,12 @@
   </h2>
 </div>
 
-- A final-year student pursuing Computer Engineering. 👩‍🎓
-- I am interested in Web development and design and love working in communities.
-- Currently learning Next.js and TypeScript while dabbling in the Node.js ecosystem.
+- Software Developer with a degree in Computer Engineering. 👩‍🎓
+- Web dev, design and communities fuel my day.
+- Currently working in the React and Node.js ecosystem.
 - Pronouns: She/Her 😄
 - Fun fact: I am weirdly obsessed with Dal 😋
-- When I am not coding, you will find me reading 📖, scribbling some poetry ✍ or talking on Discord ⭐.
-- Reach out to me at: greeshma290303@gmail.com
-- Actively looking for Frontend Dev and SDE roles.
+- When I am not coding, you will find me reading 📖, scribbling some poetry ✍ or talking IRL⭐.
 ---
 
 <div align="center">
